@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fac: ...
 -->
-def calculator():
+ calculator():
     print("Simple Calculator")
     print("1. Add")
     print("2. Subtract")
