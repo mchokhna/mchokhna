@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 if __name__ == "__main__":
     calculator()
-Imagine living on Mars.
+
 
