@@ -42,6 +42,6 @@ Here are some ideas to get you started:
         print("Invalid choice.")
 
 if __name__ == "__main__":
-    calculator()
+   
 
 
