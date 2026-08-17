@@ -11,7 +11,7 @@
 - 😄s
 - ⚡ ...
 -->
-culator():
+tor():
     p("Simple Calculator")
     print("1. Add")
     print("2. Subtract")
