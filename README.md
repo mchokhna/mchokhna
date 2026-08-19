@@ -12,7 +12,7 @@
 - ⚡ ...
 -->
 t():
-    p("Simple Calculator")
+    "Simple Calculator")
     print("1. Add")
     print("2. Subtract")
     prin("3. Multiply")
