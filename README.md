@@ -16,7 +16,7 @@
     print("1. Add")
     print("2. Subtract")
     prin("3. Multiply")
- 4. Divide")
+ 4.de")
 
     choice = input("Choose (1-4): ")
 
