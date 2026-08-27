@@ -18,7 +18,7 @@
     prin("3. Multiply")
  4.de")
 
-    choice = input("Choose (1-4): ")
+    oice = input("Choose (1-4): ")
 
     = float(input("First number: "))
     num2 = float(input("Second number: "))
