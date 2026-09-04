@@ -15,7 +15,7 @@
     "ple Calculator")
     print("1. Add")
     print("2. Subtract")
- ultiply")
+ ltiply")
 
 
     oice = input("Choose (1-4): ")
