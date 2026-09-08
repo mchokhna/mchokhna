@@ -15,7 +15,7 @@
     "ple Calculator")
     print("1. Add")
     print("2. Subtract")
-ply")
+ly")
 
 
     oice = input("Choose (1-4): ")
