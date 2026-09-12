@@ -14,7 +14,7 @@
 :
     "ple Calculator")
     print("1. Add")
-   rint("2. Subtract")
+   t("2. Subtract")
 ")
 
 
