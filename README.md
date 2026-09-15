@@ -14,7 +14,7 @@
 :
     "ple Calculator")
     print("1. Add")
-  . Subtract")
+  .ubtract")
 ")
 
 
