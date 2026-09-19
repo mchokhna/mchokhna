@@ -12,7 +12,7 @@
 -
 
 :
-    "ple Calculator")
+   le Calculator")
     print("1. Add")
   ract")
 ")
