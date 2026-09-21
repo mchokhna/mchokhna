@@ -14,7 +14,7 @@
 :
    le Calculator")
     print("1. Add")
-  ct")
+ )
 ")
 
 
