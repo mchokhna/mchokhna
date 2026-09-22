@@ -13,7 +13,7 @@
 
 :
    le Calculator")
-    print("1. Add")
+   rint("1. Add")
  )
 ")
 
