@@ -13,7 +13,7 @@
 
 :
    le Calculator")
-  nt("1. Add")
+  t("1. Add")
  )
 ")
 
