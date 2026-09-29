@@ -13,7 +13,7 @@
 
 :
    le Calculator")
-  "1. Add"
+  . Add"
  )
 
 
