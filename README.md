@@ -12,7 +12,7 @@
 -
 
 :
-   le Calculator")
+  Calculator")
   . Add"
  )
 
