@@ -13,7 +13,7 @@
 
 :
   Calculator")
-  . Add"
+ dd"
  )
 
 
