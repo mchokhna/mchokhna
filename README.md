@@ -18,7 +18,7 @@ lculator")
 
 
 
-  e = input("Choose (1-4): ")
+   input("Choose (1-4): ")
 
     = float(input("First number: "))
     num2 = float(input("Second number: "))
