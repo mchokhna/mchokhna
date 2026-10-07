@@ -12,7 +12,7 @@
 -
 
 :
-lculator")
+ulator")
 "
  )
 
