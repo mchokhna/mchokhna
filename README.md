@@ -18,7 +18,7 @@ lator")
 
 
 
- put("Choose (1-4): ")
+ t("Choose (1-4): ")
 
     = float(input("First number: "))
     num2 = float(input("Second number: "))
