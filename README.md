@@ -18,7 +18,7 @@ lator")
 
 
 
-hoose (1-4): ")
+oose (1-4): ")
 
     = float(input("First number: "))
     num2 = float(input("Second number: "))
