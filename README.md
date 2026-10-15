@@ -18,7 +18,7 @@ lar
 
 
 
-oose (1-4): ")
+ose (1-4): ")
 
     = float(input("First number: "))
     num2 = float(input("Second number: "))
