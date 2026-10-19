@@ -18,7 +18,7 @@ ar
 
 
 
-se (1-4): ")
+se (1-4)
 
     = loat(input("First number: "))
     num2 = float(input("Second number: "))
