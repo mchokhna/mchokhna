@@ -20,7 +20,7 @@ ar
 
 e-4)
 
-    = loat(input("First number: "))
+    = at(input("First number: "))
     num2 = float(input("Second number: "))
 
     if choice == "1":
