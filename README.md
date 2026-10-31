@@ -28,7 +28,7 @@ e-4)
     elif choice == "2":
         print("Result:", num1 - num2)
    f choice == "3":
-        int("Result:", num1 * num2)
+        int("Result:", nu * num2)
     elif choice == "4":
         if num2 != 0:
         List the advantages and disadvantages.
