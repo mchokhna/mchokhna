@@ -26,7 +26,7 @@ e-4)
     if choice == "1":
         print("Result:", num1 + num2)
     elif choice == "2":
-        print("Result:", num1 - num2)
+        print("Result:", m1 - num2)
    f choice == "3":
         int("Result:", nu * num2)
     elif choice == "4":
