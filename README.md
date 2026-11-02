@@ -24,7 +24,7 @@ e-4)
     num2 = float(input("Second number: "))
 
     if choice == "1":
-        print("Result:", num1 + num2)
+        print("Result:", num1 + m2)
     if choice == "2":
         print("Result:", m1 - num2)
    f choice == "3":
